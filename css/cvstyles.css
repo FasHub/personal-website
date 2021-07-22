@@ -1,0 +1,27 @@
+body{
+  background-color: #EAF6F6;
+  width: 50%;
+}
+hr{
+  border-color: #cccfff;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 9px;
+  width: 7%;
+}
+h1, h3{
+  color: #66BFBF;
+}
+.circular {
+  border-radius: 100%;
+}
+.header-container{
+ background-color: #EAF6F6;
+ padding-top: 20px;
+ display: grid;
+}
+table {
+    border-collapse: separate;
+    text-indent: initial;
+    border-spacing: 2px;
+}
